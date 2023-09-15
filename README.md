@@ -1,13 +1,13 @@
 # AliyunpanACI
 阿里云盘自动签到
 
-###声明：本文内容基于原始内容进行了二次修改传播。原始内容来源为[知乎](https://zhuanlan.zhihu.com/)，作者为[小小猪](https://www.zhihu.com/people/xiao-xiao-zhu-48-51)，原始链接为[小小猪：阿里云盘自动每日签到，无需部署，无需服务器](https://zhuanlan.zhihu.com/p/629476969)。传播此内容是基于学术研究和学习目的，遵循了适用的版权规定和学术研究的合理使用原则。  
+**声明：本文内容基于原始内容进行了二次修改传播。原始内容来源为[知乎](https://zhuanlan.zhihu.com/)，作者为[小小猪](https://www.zhihu.com/people/xiao-xiao-zhu-48-51)，原始链接为[小小猪：阿里云盘自动每日签到，无需部署，无需服务器](https://zhuanlan.zhihu.com/p/629476969)。传播此内容是基于学术研究和学习目的，遵循了适用的版权规定和学术研究的合理使用原则。**  
 
 执行思路：使用金山文档的每日定时任务，执行阿里云盘签到接口。
 无需部署，无需服务器，每个月更新一次token。  
 
 ###  
-[需要用到的模板文件，另存为副本到自己的账户中](https://kdocs.cn/l/ceQR4HpZ6op1)
+[需要用到的模板文件，另存为副本到自己的账户中https://kdocs.cn/l/ceQR4HpZ6op1](https://kdocs.cn/l/ceQR4HpZ6op1)
   
 将这段代码复制到 [效率>高级开发>AirScript] 中
 ```
